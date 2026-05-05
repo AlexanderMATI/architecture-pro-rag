@@ -1,5 +1,5 @@
 ## Задание 1. Исследование моделей и инфраструктуры
-Решение представлено в файле Task1.md в директории Task1
+Решение представлено в файле [Task1.md](https://github.com/AlexanderMATI/architecture-pro-rag/tree/main/Task1) в директории Task1
 
 ## Задание 2. Подготовка базы знаний
 ### Пояснение к скрипту parse_fandom_pages.py и словарю замен terms_map.json
@@ -362,7 +362,7 @@ mkdir -p "$LOG_DIR"
 
 ### 4. Диаграмма, которая объясняет архитектуру и поток данных.
 
-#### [Диаграмма архитектуры index_update.py в формате PlantUML]()
+#### [Диаграмма архитектуры index_update.py в формате PlantUML](https://github.com/AlexanderMATI/architecture-pro-rag/blob/main/Task6%20diagram/rag_index_update_architecture.png)
 
 ### 5. Пример лога.
 
@@ -448,7 +448,7 @@ mkdir -p "$LOG_DIR"
 
 ### 6. Диаграмма последовательности обработки запроса
 
-#### [Диаграмма последовательности RAG evaluation в формате PlantUML]()
+#### [Диаграмма последовательности RAG evaluation в формате PlantUML](https://github.com/AlexanderMATI/architecture-pro-rag/blob/main/Task6%20diagram/rag_evaluation_sequence_diagram.png)
 
 ### 7. Результаты и выводы
 
